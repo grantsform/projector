@@ -3,8 +3,7 @@
 This tiny utility, a quick-and-dirty helper for setting up your 
 `local-projects` to projects outside it -- with the help of symlinks.
 
-Usage is demonstrated below what you can append to your quicklisp enabled
- `~/.sbclrc` file, after you've cloned projector into local-projects.
+> This is an example of a projector config in our ~/.sbclrc
 
 ```shell
 #+sbcl
